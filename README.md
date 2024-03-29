@@ -22,4 +22,4 @@
   - Total Amount.
 
 - **Output**:
- https://github.com/Saroj-Swadithya/E-Commerce-Sales-Dashboard/assets/131875995/0a7d7c9e-e781-4dfb-8a57-86c925322338
+- [https://github.com/Saroj-Swadithya/E-Commerce-Sales-Dashboard/assets/131875995/0a7d7c9e-e781-4dfb-8a57-86c925322338]
